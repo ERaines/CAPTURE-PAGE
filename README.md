@@ -1,2 +1,2 @@
-# Página de Captura
+# Capture Page for Practice
  Practice
