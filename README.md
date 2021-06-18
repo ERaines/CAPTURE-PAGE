@@ -18,5 +18,4 @@ To practice HTML, CSS and integration [mailchimp](https://mailchimp.com/) servic
 
 **GitHub Pages:** [Link](https://eraines.github.io/CAPTURE-PAGE/)
 
-
-
+<img src="https://github.com/ERaines/CAPTURE-PAGE/blob/main/imagens/print.png" alt="print" width="700"/>
