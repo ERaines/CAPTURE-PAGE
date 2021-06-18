@@ -16,4 +16,7 @@ To practice HTML, CSS and integration [mailchimp](https://mailchimp.com/) servic
 
 <h3>Example</h3>
 
+**GitHub Pages:** [Link](https://eraines.github.io/CAPTURE-PAGE/)
+
+
 
